@@ -1,0 +1,7 @@
+E:\testApp\testApp\bin\Debug\testApp.exe.config
+E:\testApp\testApp\bin\Debug\testApp.exe
+E:\testApp\testApp\bin\Debug\testApp.pdb
+E:\testApp\testApp\obj\Debug\testApp.csprojAssemblyReference.cache
+E:\testApp\testApp\obj\Debug\testApp.csproj.CoreCompileInputs.cache
+E:\testApp\testApp\obj\Debug\testApp.exe
+E:\testApp\testApp\obj\Debug\testApp.pdb
